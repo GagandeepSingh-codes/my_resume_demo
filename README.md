@@ -1,2 +1,3 @@
-# my_resume_demo
-Publishing my resume in my github account
+Adding my resume(2025) on github...
+
+This is all about my skills , experiences and achievements
